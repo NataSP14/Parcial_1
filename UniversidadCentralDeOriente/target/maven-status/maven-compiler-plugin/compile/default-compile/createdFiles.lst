@@ -1,0 +1,7 @@
+observer\Journalist.class
+observer\CommunityManager.class
+subject\EDCO.class
+observer\WebMaster.class
+main\Main.class
+observer\Worker.class
+subject\CourseData.class
